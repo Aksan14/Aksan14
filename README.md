@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Cloud+and+Web+Enthusiast;Code.+Create.+Innovate.;Always+Learning+New+Things" />
   <br><br>
 </div>
 
