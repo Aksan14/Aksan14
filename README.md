@@ -1,9 +1,5 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<div align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
-</div>
-
 <div align="justify">
 👤 I'm <b>Muhammad Aksan</b> — Informatics student at <b>Universitas Muhammadiyah Makassar</b>, currently exploring the vast world of technology and coding  
 ⚽ Outside coding, I recharge my brain with football and good vibes.<br><br>
