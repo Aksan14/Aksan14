@@ -1,13 +1,19 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="justify">Hello There 👋 </h1>
 
 <div align="justify">
 👤 I'm <b>Muhammad Aksan</b> — Informatics student at <b>Universitas Muhammadiyah Makassar</b>, currently exploring the vast world of technology and coding  
-⚽ Outside coding, I recharge my brain with football and good vibes.<br><br>
+⚽ Outside coding, I recharge my brain with football and good vibes.
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpueDg3M2hjZGMxaGxvbDg3OXlxdTZ3b2N0NTVpeDIxN3EycXhseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Sb7WSbjHFNIL6/giphy.gif" width="300" alt="coding gif" />
-</div>
+<br>
+
+<!-- Full-width SpongeBob GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpueDg3M2hjZGMxaGxvbDg3OXlxdTZ3b2N0NTVpeDIxN3EycXhseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Sb7WSbjHFNIL6/giphy.gif"
+     alt="coding gif"
+     width="100%"
+     style="display:block; margin:0; border-radius:10px;" />
+
+<br>
 
 <div align="justify">
 🌴 Member of <b>Coconut Computer Club</b> — where tech meets creativity.  
@@ -16,12 +22,13 @@
 
 ---
 
-
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Informatics+Student;Cloud+and+Web+Enthusiast;Code.+Create.+Innovate.;Always+Learning+New+Things" />
-  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Informatics+Student;Cloud+and+Web+Enthusiast;Code.+Create.+Innovate.;Always+Learning+New+Things" />
 </div>
+
+---
+
+### 🚀 Tech Stack I Work With
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="55" />
