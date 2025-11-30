@@ -4,15 +4,6 @@
 👤 I'm <b>Muhammad Aksan</b> — Informatics student at <b>Universitas Muhammadiyah Makassar</b>, currently exploring the vast world of technology and coding  
 ⚽ Outside coding, I recharge my brain with football and good vibes.
 </div>
-
-<br>
-
-<!-- Full-width SpongeBob GIF -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpueDg3M2hjZGMxaGxvbDg3OXlxdTZ3b2N0NTVpeDIxN3EycXhseSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Sb7WSbjHFNIL6/giphy.gif"
-     alt="coding gif"
-     width="100%"
-     style="display:block; margin:0; border-radius:10px;" />
-
 <br>
 
 <div align="justify">
