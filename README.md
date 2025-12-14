@@ -15,16 +15,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Informatics+Student;Cloud+and+Web+Enthusiast;Code.+Create.+Innovate.;Always+Learning+New+Things" />
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="55" />
-  <img src="https://skillicons.dev/icons?i=java" height="55" />
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="55" />
-  <img src="https://skillicons.dev/icons?i=react" height="55" />
-  <img src="https://skillicons.dev/icons?i=go" height="55" />
-  <img src="https://skillicons.dev/icons?i=aws" height="55" />
-</div>
-
 ---
 
 ### 🌐 Connect with Me
