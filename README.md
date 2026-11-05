@@ -1,13 +1,13 @@
 <h1 align="justify">Hello There 👋 </h1>
 
 <div align="justify">
-👤 I'm <b>Muhammad Aksan</b> — Informatics student at <b>Universitas Muhammadiyah Makassar</b>, currently exploring the vast world of technology and coding  
+👤 I'm <b>Muhammad Aksan</b> - Informatics student at <b>Universitas Muhammadiyah Makassar</b>, currently exploring the vast world of technology and coding  
 ⚽ Outside coding, I recharge my brain with football and good vibes.
 </div>
 <br>
 
 <div align="justify">
-🌴 Member of <b>Coconut Computer Club</b> — where tech meets creativity.  
+🌴 Member of <b>Coconut Computer Club</b> - where tech meets creativity.  
 🚀 Dreaming big to become a developer who builds impactful digital experiences.
 </div>
 
